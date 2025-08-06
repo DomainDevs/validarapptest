@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Casa Moderna en Bogotá",
+    "precio": 450000000,
+    "direccion": "Cra 45 # 123 - 45, Bogotá",
+    "descripcion": "Hermosa casa de 2 pisos con jardín y garaje.",
+    "imagenes": [
+      "/images/casa1-1.jpg",
+      "/images/casa1-2.jpg",
+      "/images/casa1-3.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Apartamento en Medellín",
+    "precio": 350000000,
+    "direccion": "Calle 50 # 20 - 30, Medellín",
+    "descripcion": "Apartamento con excelente vista y acabados de lujo.",
+    "imagenes": [
+      "/images/apto1-1.jpg",
+      "/images/apto1-2.jpg",
+      "/images/apto1-3.jpg"
+    ]
+  }
+]
